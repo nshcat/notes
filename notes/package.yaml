@@ -25,6 +25,18 @@ dependencies:
 - selda-sqlite
 - time
 - text
+- directory
+- ansi-terminal
+- ansi-wl-pprint
+- process
+- optparse-applicative
+- mmorph
+- mtl
+- aeson
+- aeson-pretty
+- filepath
+- bytestring
+
 
 library:
   source-dirs: src
